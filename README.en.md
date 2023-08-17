@@ -1,8 +1,8 @@
 简体中文 | [English](./README.en.md)
 
-# icestore
+# E-Learning Product Engagement Prediction
 
-> 简单友好的状态管理方案。
+> 
 
 [![NPM version](https://img.shields.io/npm/v/@ice/store.svg?style=flat)](https://npmjs.org/package/@ice/store)
 [![build status](https://github.com/ice-lab/icestore/actions/workflows/ci.yml/badge.svg)](https://github.com/ice-lab/icestore/actions/workflows/ci.yml)
